@@ -1,4 +1,3 @@
 QQ:1607817491
-
-
-Blogs:www.itwen.icu
+phoneNum:18873700391
+An embedded software engineer in the smart home industry
